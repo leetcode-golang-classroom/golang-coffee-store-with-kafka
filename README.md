@@ -10,3 +10,6 @@ This repository is demo how to use kafka as stream broker to handle coffee shop 
 
 ![dependency-diagram](dependency-graph.svg)
 
+## injection-direction
+
+![injection-direction](injection-direction.png)
